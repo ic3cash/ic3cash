@@ -7,7 +7,8 @@ You may contact me at the following services
 <sub><sup>**Note** ic3 is an online alias; it is not used to mock or disrespect the Internet Crime Complaint Center in any way</sup></sub>
 
 ## Notable Projects
-- **Tracery** - Maps out usernames, emails, numbers across multiple services (Access is limited for now)
+- **Tracery** - Maps out usernames, emails, numbers across multiple services (Access is limited for now)  
+<sub><sup>Not being released right now. Source will be released on GitHub once I'm available to finish the website</sup></sub>
 
 ## Projects In Development
 - **OpenPort** - A port scanner that lists services hosted on each port; returns a vulnerbility analysis
