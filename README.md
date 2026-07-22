@@ -8,7 +8,7 @@ You may contact me at the following services
 <sup>**Note:** ic3 is an online alias; it is not used to mock or disrespect the [Internet Crime Complaint Center](http://ic3.gov/) in any way</sup>
 
 ## Notable Projects
-- **Tracery** - Maps out usernames, emails, numbers across multiple services (Access is limited for now)
+- **Yami** - Maps out usernames, emails, numbers across multiple services (Access is limited for now - No you cannot request access)
   
 <sup>Not being released right now. Source will be released on GitHub once I'm available to finish the website</sup>
 
