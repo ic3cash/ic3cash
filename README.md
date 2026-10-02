@@ -1,5 +1,5 @@
 ## Hi I'm Simon
-A 20 year old Cybersecurity Enthusiast currently studying Computer Science @ [University of Nottingham](https://www.nottingham.ac.uk)   
+A 21 year old Cybersecurity Enthusiast currently studying Computer Science @ [University of Nottingham](https://www.nottingham.ac.uk)   
 You may contact me at the following services
 - Email: ic3@onionmail.org (don't expect a reply from here; this email serves to anonymize my primary email)
 - Telegram: Unavailable
@@ -9,6 +9,7 @@ You may contact me at the following services
 
 ## Notable Projects
 - **OpenSearch** - Maps out usernames, emails, numbers across multiple services (Access is limited for now - No you cannot request access)
+- **BloonSlayer** - C++ Cheat for Bloons TD Battles 2 (Unmaintained)
   
 <sup>Not being released right now. Source will be released on GitHub once I'm available to finish the website</sup>
 
