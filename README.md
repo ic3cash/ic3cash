@@ -10,7 +10,7 @@
 
 <br>
 
-## ⚡ About Me
+## About Me
 
 ```yaml
 name: Simon
@@ -60,16 +60,7 @@ currently:
 
 ---
 
-## 🔥 Projects
-
-<div align="center">
-
-<a href="https://github.com/ic3cash/OpenSearch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ic3cash&repo=LockDown&theme=nord&hide_border=true" />
-</a>
-
-</div>
-
+## Projects
 <br>
 
 | Project | Description | Tech | Status |
@@ -96,31 +87,11 @@ currently:
 
 ---
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/ic3cash/ic3cash/output/github-snake-dark.svg)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=ic3cash&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=15)
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ic3cash&bg_color=2E3440&color=88C0D0&line=5E81AC&point=D8DEE9&area=true&hide_border=true)](https://github.com/ic3cash)
 
 </div>
 
