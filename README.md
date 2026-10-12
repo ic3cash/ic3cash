@@ -10,7 +10,7 @@
 
 <br>
 
-## About Me
+### About Me
 
 ```yaml
 name: Simon
@@ -30,24 +30,24 @@ currently: studying
 
 ---
 
-## 🛠️ Arsenal
+### Stack
 
 <div align="center">
 
-### Reverse Engineering
+#### Reverse Engineering
 ![IDA Pro](https://img.shields.io/badge/IDA_Pro-3B4252?style=for-the-badge&logo=hex&logoColor=88C0D0)
 ![x64dbg](https://img.shields.io/badge/x64dbg-3B4252?style=for-the-badge&logo=windows-terminal&logoColor=88C0D0)
 ![DNSpy](https://img.shields.io/badge/DNSpy-3B4252?style=for-the-badge&logo=dotnet&logoColor=88C0D0)
 ![Ghidra](https://img.shields.io/badge/Ghidra-3B4252?style=for-the-badge&logo=openjdk&logoColor=88C0D0)
 
-### Languages
+#### Languages
 ![C++](https://img.shields.io/badge/C++-5E81AC?style=for-the-badge&logo=cplusplus&logoColor=D8DEE9)
 ![Python](https://img.shields.io/badge/Python-5E81AC?style=for-the-badge&logo=python&logoColor=D8DEE9)
 ![C#](https://img.shields.io/badge/C%23-5E81AC?style=for-the-badge&logo=csharp&logoColor=D8DEE9)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5E81AC?style=for-the-badge&logo=typescript&logoColor=D8DEE9)
 ![Rust](https://img.shields.io/badge/Rust-5E81AC?style=for-the-badge&logo=rust&logoColor=D8DEE9)
 
-### Security
+#### Security
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-4C566A?style=for-the-badge&logo=hackthebox&logoColor=A3BE8C)
 ![Wireshark](https://img.shields.io/badge/Wireshark-4C566A?style=for-the-badge&logo=wireshark&logoColor=A3BE8C)
 ![Nmap](https://img.shields.io/badge/Nmap-4C566A?style=for-the-badge&logo=gnubash&logoColor=A3BE8C)
@@ -57,7 +57,7 @@ currently: studying
 
 ---
 
-## Projects
+### Projects
 <br>
 
 | Project | Description | Tech | Status |
@@ -71,7 +71,7 @@ currently: studying
 
 ---
 
-## 📊 Stats
+### Stats
 
 <div align="center">
 
@@ -84,7 +84,7 @@ currently: studying
 
 ---
 
-## Contribution Graph
+### Contribution Graph
 
 <div align="center">
 
