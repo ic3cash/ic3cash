@@ -65,7 +65,7 @@ currently:
 <div align="center">
 
 <a href="https://github.com/ic3cash/OpenSearch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ic3cash&repo=OpenSearch&theme=nord&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ic3cash&repo=LockDown&theme=nord&hide_border=true" />
 </a>
 
 </div>
