@@ -25,10 +25,7 @@ focus:
   - Vulnerability Analysis
   - API Security & Automation
 
-currently:
-  building: OpenPort vulnerability scanner
-  researching: API security flaws
-  findings: 13 reported
+currently: studying
 ```
 
 ---
