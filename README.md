@@ -1,18 +1,135 @@
-## Hi I'm Simon
-A 21 year old Cybersecurity Enthusiast currently studying Computer Science @ [University of Nottingham](https://www.nottingham.ac.uk)   
-You may contact me at the following services
-- Email: ic3@onionmail.org (don't expect a reply from here; this email serves to anonymize my primary email)
-- Telegram: Unavailable
-- Website: https://ic3.cash/
-  
-<sup>**Note:** ic3 is an online alias; it is not used to mock or disrespect the [Internet Crime Complaint Center](http://ic3.gov/) in any way</sup>
+<div align="center">
 
-## Notable Projects
-- **OpenSearch** - Maps out usernames, emails, numbers across multiple services (Access is limited for now - No you cannot request access)
-- **BloonSlayer** - C++ Cheat for Bloons TD Battles 2 (Unmaintained)
-  
-<sup>Not being released right now. Source will be released on GitHub once I'm available to finish the website</sup>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E3440,100:5E81AC&height=200&section=header&text=Simon&fontSize=80&fontColor=D8DEE9&animation=fadeIn&fontAlignY=35&desc=Security%20Researcher%20%7C%20Reverse%20Engineer&descSize=20&descAlignY=55&descColor=88C0D0)
 
-## Projects In Development
-- **OpenPort** - A port scanner that lists services hosted on each port; returns a vulnerbility analysis
-- **LockDown** - A zero trace lockdown utility; used in the event that your machine is compromised
+[![Website](https://img.shields.io/badge/ic3.cash-2E3440?style=for-the-badge&logo=safari&logoColor=88C0D0)](https://ic3.cash)
+[![Email](https://img.shields.io/badge/Contact-5E81AC?style=for-the-badge&logo=protonmail&logoColor=D8DEE9)](mailto:ic3@onionmail.org)
+[![Profile Views](https://komarev.com/ghpvc/?username=ic3cash&style=for-the-badge&color=5E81AC&label=Views)](https://github.com/ic3cash)
+
+</div>
+
+<br>
+
+## ⚡ About Me
+
+```yaml
+name: Simon
+location: United Kingdom
+education:
+  current: BSc Computer Science @ University of Nottingham
+  next: MSc Cybersecurity @ NTU
+
+focus:
+  - Security Research
+  - Reverse Engineering
+  - Vulnerability Analysis
+  - API Security & Automation
+
+currently:
+  building: OpenPort vulnerability scanner
+  researching: API security flaws
+  findings: 13 reported
+```
+
+---
+
+## 🛠️ Arsenal
+
+<div align="center">
+
+### Reverse Engineering
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-3B4252?style=for-the-badge&logo=hex&logoColor=88C0D0)
+![x64dbg](https://img.shields.io/badge/x64dbg-3B4252?style=for-the-badge&logo=windows-terminal&logoColor=88C0D0)
+![DNSpy](https://img.shields.io/badge/DNSpy-3B4252?style=for-the-badge&logo=dotnet&logoColor=88C0D0)
+![Ghidra](https://img.shields.io/badge/Ghidra-3B4252?style=for-the-badge&logo=openjdk&logoColor=88C0D0)
+
+### Languages
+![C++](https://img.shields.io/badge/C++-5E81AC?style=for-the-badge&logo=cplusplus&logoColor=D8DEE9)
+![Python](https://img.shields.io/badge/Python-5E81AC?style=for-the-badge&logo=python&logoColor=D8DEE9)
+![C#](https://img.shields.io/badge/C%23-5E81AC?style=for-the-badge&logo=csharp&logoColor=D8DEE9)
+![TypeScript](https://img.shields.io/badge/TypeScript-5E81AC?style=for-the-badge&logo=typescript&logoColor=D8DEE9)
+![Rust](https://img.shields.io/badge/Rust-5E81AC?style=for-the-badge&logo=rust&logoColor=D8DEE9)
+
+### Security
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-4C566A?style=for-the-badge&logo=hackthebox&logoColor=A3BE8C)
+![Wireshark](https://img.shields.io/badge/Wireshark-4C566A?style=for-the-badge&logo=wireshark&logoColor=A3BE8C)
+![Nmap](https://img.shields.io/badge/Nmap-4C566A?style=for-the-badge&logo=gnubash&logoColor=A3BE8C)
+![Metasploit](https://img.shields.io/badge/Metasploit-4C566A?style=for-the-badge&logo=metasploit&logoColor=A3BE8C)
+
+</div>
+
+---
+
+## 🔥 Projects
+
+<div align="center">
+
+<a href="https://github.com/ic3cash/OpenSearch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ic3cash&repo=OpenSearch&theme=nord&hide_border=true" />
+</a>
+
+</div>
+
+<br>
+
+| Project | Description | Tech | Status |
+|:-------:|:------------|:----:|:------:|
+| **OpenSearch** | OSINT tool mapping digital footprints across platforms | ![Python](https://img.shields.io/badge/-Python-5E81AC?style=flat-square&logo=python&logoColor=D8DEE9) | ![Status](https://img.shields.io/badge/-Active-A3BE8C?style=flat-square) |
+| **OpenPort** | Port scanner with CVE matching & vulnerability analysis | ![C++](https://img.shields.io/badge/-C++-5E81AC?style=flat-square&logo=cplusplus&logoColor=D8DEE9) | ![Status](https://img.shields.io/badge/-In_Dev-EBCB8B?style=flat-square) |
+| **Roze** | Discord automation & nitro sniping service | ![Node](https://img.shields.io/badge/-Node.js-5E81AC?style=flat-square&logo=nodedotjs&logoColor=D8DEE9) | ![Status](https://img.shields.io/badge/-Active-A3BE8C?style=flat-square) |
+| **LockDown** | Zero-trace machine lockdown utility | ![C++](https://img.shields.io/badge/-C++-5E81AC?style=flat-square&logo=cplusplus&logoColor=D8DEE9) | ![Status](https://img.shields.io/badge/-In_Dev-EBCB8B?style=flat-square) |
+| **Mono** | Unity Mono runtime value editor | ![C++](https://img.shields.io/badge/-C++-5E81AC?style=flat-square&logo=cplusplus&logoColor=D8DEE9) | ![Status](https://img.shields.io/badge/-v1.01-81A1C1?style=flat-square) |
+| **Dumpette** | IDA Pro script for dumping subroutines & symbols | ![Python](https://img.shields.io/badge/-Python-5E81AC?style=flat-square&logo=python&logoColor=D8DEE9) | ![Status](https://img.shields.io/badge/-Complete-A3BE8C?style=flat-square) |
+
+---
+
+## 📊 Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ic3cash&show_icons=true&theme=nord&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ic3cash&theme=nord&hide_border=true" />
+
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ic3cash&layout=compact&theme=nord&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/ic3cash/ic3cash/output/github-snake-dark.svg)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=ic3cash&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=15)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Activity Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ic3cash&bg_color=2E3440&color=88C0D0&line=5E81AC&point=D8DEE9&area=true&hide_border=true)](https://github.com/ic3cash)
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:5E81AC,100:2E3440&height=120&section=footer)
+
+<sub>reporting system flaws since '05</sub>
+
+</div>
