@@ -63,10 +63,9 @@ currently: studying
 | Project | Description | Tech | Status |
 |:-------:|:------------|:----:|:------:|
 | **OpenSearch** | OSINT tool mapping digital footprints across platforms | ![Python](https://img.shields.io/badge/-Python-5E81AC?style=flat-square&logo=python&logoColor=D8DEE9) | ![Status](https://img.shields.io/badge/-Active-A3BE8C?style=flat-square) |
-| **OpenPort** | Port scanner with CVE matching & vulnerability analysis | ![C++](https://img.shields.io/badge/-C++-5E81AC?style=flat-square&logo=cplusplus&logoColor=D8DEE9) | ![Status](https://img.shields.io/badge/-In_Dev-EBCB8B?style=flat-square) |
-| **Roze** | Discord automation & nitro sniping service | ![Node](https://img.shields.io/badge/-Node.js-5E81AC?style=flat-square&logo=nodedotjs&logoColor=D8DEE9) | ![Status](https://img.shields.io/badge/-Active-A3BE8C?style=flat-square) |
+| **OpenPort** | Port scanner with CVE matching & vulnerability analysis | ![Rust](https://img.shields.io/badge/-Rust-5E81AC?style=flat-square&logo=Rust&logoColor=D8DEE9) | ![Status](https://img.shields.io/badge/-In_Dev-EBCB8B?style=flat-square) |
 | **LockDown** | Zero-trace machine lockdown utility | ![C++](https://img.shields.io/badge/-C++-5E81AC?style=flat-square&logo=cplusplus&logoColor=D8DEE9) | ![Status](https://img.shields.io/badge/-In_Dev-EBCB8B?style=flat-square) |
-| **Mono** | Unity Mono runtime value editor | ![C++](https://img.shields.io/badge/-C++-5E81AC?style=flat-square&logo=cplusplus&logoColor=D8DEE9) | ![Status](https://img.shields.io/badge/-v1.01-81A1C1?style=flat-square) |
+| **Mono** | Unity Mono runtime value editor | ![C++](https://img.shields.io/badge/-C++-5E81AC?style=flat-square&logo=cplusplus&logoColor=D8DEE9) | ![Status](https://img.shields.io/badge/-lost_src_-81A1C1?style=flat-square) |
 | **Dumpette** | IDA Pro script for dumping subroutines & symbols | ![Python](https://img.shields.io/badge/-Python-5E81AC?style=flat-square&logo=python&logoColor=D8DEE9) | ![Status](https://img.shields.io/badge/-Complete-A3BE8C?style=flat-square) |
 
 ---
